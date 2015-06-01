@@ -1,3 +1,8 @@
 [2015-06-01 15:38:05] name.WARNING: Foo [] []
 [2015-06-01 15:39:40] name.WARNING: Foo [] []
 [2015-06-01 18:42:54] name.WARNING: Foo [] []
+[2015-06-01 18:59:49] name.WARNING: Foo [] []
+[2015-06-01 19:00:36] name.WARNING: Oh No! [] []
+[2015-06-01 19:00:42] name.WARNING: Oh No! [] []
+[2015-06-01 19:00:51] name.WARNING: Oh No! [] []
+[2015-06-01 19:00:57] name.WARNING: Oh No! [] []
