@@ -1,0 +1,13 @@
+{
+    "name": "root/project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "padawanTony",
+            "email": "anthonykalogeropoulos@gmail.com"
+        }
+    ],
+    "require": {
+        "monolog/monolog": "^1.13"
+    }
+}
